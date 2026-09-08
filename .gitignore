@@ -1,0 +1,14 @@
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.ipa
+*.dSYM
+Secrets.xcconfig
+**/Secrets.swift
+.env
+.idea/
+.swiftpm/
+Packages/
+Package.resolved
